@@ -2,8 +2,7 @@
 
 ## Here is the code
 
-'library(magick)
-
+'''r library(magick)
 
 starting_cat <- image_read("https://1funny.com/wp-content/uploads/2009/05/tired-cat.jpeg") %>% 
   image_scale(500) 
@@ -36,7 +35,12 @@ bottom_image <- image_append(bottom_vector)
 assignment_meme <- c(top_image, middle_image, bottom_image) %>%
   image_append(stack= TRUE) 
 
-image_write(assignment_meme, "assignment_meme.png")'
+image_write(assignment_meme, "assignment_meme.png")
+
+'''
+
+
+
 
 
 ![meme that was created](https://raw.githubusercontent.com/pangnakh/stats220/main/assignment_meme.png)
