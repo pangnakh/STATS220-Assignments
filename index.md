@@ -2,7 +2,7 @@
 
 ## Here is the code
 
-'''r 
+```r 
 library(magick)
 
 starting_cat <- image_read("https://1funny.com/wp-content/uploads/2009/05/tired-cat.jpeg") %>% 
@@ -37,7 +37,7 @@ assignment_meme <- c(top_image, middle_image, bottom_image) %>%
   image_append(stack= TRUE) 
 
 image_write(assignment_meme, "assignment_meme.png")
-'''
+```
 
 
 
