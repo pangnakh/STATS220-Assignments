@@ -16,7 +16,9 @@ To do this I joined together 3 segments to create the meme:
 
 I found 3 images online that I thought represented the emotions felt in these 3 phases
 
-![]("https://1funny.com/wp-content/uploads/2009/05/tired-cat.jpeg") ![]("https://i.pinimg.com/564x/16/e6/b6/16e6b6eb6cc6543ed1752290f5b13b71.jpg") ![]("https://external-preview.redd.it/S_v2Ru1PY-LUR_lqJ-OF64vuei6hneXF0bfob9K9AYQ.jpg?auto=webp&s=72fc78ca6d2643674b654e9d158ae30c3a131158")
+![]("https://1funny.com/wp-content/uploads/2009/05/tired-cat.jpeg") 
+![]("https://i.pinimg.com/564x/16/e6/b6/16e6b6eb6cc6543ed1752290f5b13b71.jpg") 
+![]("https://external-preview.redd.it/S_v2Ru1PY-LUR_lqJ-OF64vuei6hneXF0bfob9K9AYQ.jpg?auto=webp&s=72fc78ca6d2643674b654e9d158ae30c3a131158")
 
 To help me build this project I used a package in R called [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html). 
 
