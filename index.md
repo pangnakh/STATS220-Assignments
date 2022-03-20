@@ -5,7 +5,7 @@
 **I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
 
 *I was tasked to create a meme using R code for my first assignment.*
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_(programming_language)&psig=AOvVaw3xFstmwwb2_05LGCGbbUN4&ust=1647833252463000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj5vrTf0_YCFQAAAAAdAAAAABAD)
+![R](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_(programming_language)&psig=AOvVaw3xFstmwwb2_05LGCGbbUN4&ust=1647833252463000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj5vrTf0_YCFQAAAAAdAAAAABAD)
 
 
 I chose to create a meme about the struggles of completing an assignment as a student. 
