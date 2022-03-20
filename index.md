@@ -5,6 +5,8 @@
 **I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
 
 *I was tasked to create a meme using R code for my first assignment.*
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_(programming_language)&psig=AOvVaw3xFstmwwb2_05LGCGbbUN4&ust=1647833252463000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj5vrTf0_YCFQAAAAAdAAAAABAD)
+
 
 I chose to create a meme about the struggles of completing an assignment as a student. 
 
@@ -13,12 +15,6 @@ To do this I joined together 3 segments to create the meme:
 1. Procrastianting to start the assignment
 2. Rushing to finish the assignment at the last minute
 3. Successfully finishing the assignment 
-
-I found 3 images online that I thought represented the emotions felt in these 3 phases
-
-![]("https://1funny.com/wp-content/uploads/2009/05/tired-cat.jpeg") 
-![]("https://i.pinimg.com/564x/16/e6/b6/16e6b6eb6cc6543ed1752290f5b13b71.jpg") 
-![]("https://external-preview.redd.it/S_v2Ru1PY-LUR_lqJ-OF64vuei6hneXF0bfob9K9AYQ.jpg?auto=webp&s=72fc78ca6d2643674b654e9d158ae30c3a131158")
 
 To help me build this project I used a package in R called [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html). 
 
