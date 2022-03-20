@@ -63,6 +63,4 @@ image_write(assignment_meme, "assignment_meme.png")
 
 ## Here is the meme created
 
-![meme that was created](https://raw.githubusercontent.com/pangnakh/stats220/main/assignment_meme.png)
-
-![test](assignment_meme.png)
+![meme that was created](assignment_meme.png)
