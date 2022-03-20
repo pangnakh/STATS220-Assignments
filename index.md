@@ -6,7 +6,7 @@
 
 *I was tasked to create a meme using R code for my first assignment.*
 
-I chose to create meme about the struggles of completing an assignment as a student. 
+I chose to create a meme about the struggles of completing an assignment as a student. 
 
 To do this I joined together 3 segments to create the meme:
 
