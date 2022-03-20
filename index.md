@@ -5,8 +5,6 @@
 **I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
 
 *I was tasked to create a meme using R code for my first assignment.*
-![](https://www.techsmith.com/blog/wp-content/uploads/2021/09/Make-a-meme-butterfly.png)
-
 
 I chose to create a meme about the struggles of completing an assignment as a student. 
 
