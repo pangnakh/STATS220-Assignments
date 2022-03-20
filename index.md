@@ -61,6 +61,6 @@ assignment_meme <- c(top_image, middle_image, bottom_image) %>%
 image_write(assignment_meme, "assignment_meme.png")
 ```
 
-## Here is the meme created
+### The Meme Created
 
 ![meme that was created](assignment_meme.png)
