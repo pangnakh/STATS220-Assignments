@@ -1,6 +1,28 @@
 # Pangna Khun STATS220 Assignment 1
 
-## Here is the code
+## Overview
+
+**I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
+
+*I was tasked to create a meme using R code for my first assignment.*
+
+I chose to create meme about the struggles of completing an assignment as a student. 
+
+To do this I joined together 3 segments to create the meme:
+
+1. Procrastianting to start the assignment
+2. Rushing to finish the assignment at the last minute
+3. Successfully finishing the assignment 
+
+To help me build this project I used a package in R called [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html). 
+
+The following is the checklist of things the code needed to include:
+
+* Use of pipes
+* use of named objects
+* Use of functions `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`, `image_write()`
+
+## The Code
 
 ```r 
 library(magick)
