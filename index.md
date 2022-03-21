@@ -13,7 +13,7 @@ I was tasked to create a meme using R code for my first assignment. I chose to c
 
 To help me build this project I used a package in R called [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html). 
 
-The following is the checklist of things the code needed to include:
+**The following is the checklist of things the code needed to include:**
 
 * Use of pipes 
 * use of named objects 
