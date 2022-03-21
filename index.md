@@ -16,9 +16,9 @@ To help me build this project I used a package in R called [{magick}](https://cr
 
 The following is the checklist of things the code needed to include:
 
-* Use of pipes [x]
-* use of named objects [x]
-* Use of functions `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`, `image_write()` [x]
+* Use of pipes [x] done
+* use of named objects [x] done
+* Use of functions `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`, `image_write()` [x] done
 
 ## The Code
 
