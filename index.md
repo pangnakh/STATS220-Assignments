@@ -1,10 +1,11 @@
 # Pangna Khun STATS220 Assignment 1
 
 ## Overview
-
+<p align = "center">
 *I was tasked to create a meme using R code for my first assignment.*
 
 **I chose to create a meme about the struggles of completing an assignment as a student.**
+  </p>
 
 To do this I joined together 3 segments to create the meme:
 
@@ -16,9 +17,9 @@ To help me build this project I used a package in R called [{magick}](https://cr
 
 The following is the checklist of things the code needed to include:
 
-* Use of pipes [x] done
-* use of named objects [x] done
-* Use of functions `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`, `image_write()` [x] done
+* Use of pipes 
+* use of named objects 
+* Use of functions `c()`, `image_blank()`, `image_read()`, `image_annotate()`, `image_append()`, `image_write()` 
 
 ## The Code
 
