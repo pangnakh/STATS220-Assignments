@@ -1,4 +1,4 @@
-# Pangna Khun STATS220 Assignment 1
+# Pangna Khun STATS220 Assignment 1 <img src="static/images/uoa-square.svg" height="58px" align="right" />
 
 ## Overview
 <p align = "center">
