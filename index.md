@@ -2,11 +2,9 @@
 
 ## Overview
 
-**I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
-
 *I was tasked to create a meme using R code for my first assignment.*
 
-I chose to create a meme about the struggles of completing an assignment as a student. 
+**I chose to create a meme about the struggles of completing an assignment as a student.**
 
 To do this I joined together 3 segments to create the meme:
 
