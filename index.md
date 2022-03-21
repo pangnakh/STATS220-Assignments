@@ -1,6 +1,8 @@
 # Pangna Khun STATS220 Assignment 1 <img src="https://i.ytimg.com/vi/XDGmv6zRM84/hqdefault.jpg" height="140px" align="right" />
 
 ## Overview
+
+
 <p align = "center">
 I was tasked to create a meme using R code for my first assignment. I chose to create a meme about the struggles of completing an assignment as a student.
   </p>
