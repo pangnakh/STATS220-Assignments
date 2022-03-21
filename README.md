@@ -1,10 +1,7 @@
-<p align="center">
-# STATS220 Data Technologies
-  </p>
+# STATS220 Data Technologies 
 
 **I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
 
-This is a repo I have created for my STATS220 Assignments 
+This is a repo I have created for my STATS220 Assignments <div align="right"> [stats220](https://github.com/pangnakh/stats220)
 
-[stats220](https://github.com/pangnakh/stats220)
 
