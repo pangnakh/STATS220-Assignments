@@ -5,7 +5,7 @@
 I was tasked to create a meme using R code for my first assignment. I chose to create a meme about the struggles of completing an assignment as a student.
   </p>
 
-To do this I joined together 3 segments to create the meme:
+*To do this I joined together 3 segments to create the meme:*
 
 1. Procrastinating to start the assignment
 2. Rushing to finish the assignment at the last minute
