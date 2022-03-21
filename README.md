@@ -1,4 +1,6 @@
-# stats220
+<p align="center">
+# STATS220 Data Technologies
+  </p>
 
 **I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
 
