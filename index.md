@@ -1,4 +1,4 @@
-# Pangna Khun STATS220 Assignment 1 <img src="https://i.ytimg.com/vi/XDGmv6zRM84/hqdefault.jpg" height="140px" align="right" />
+# Pangna Khun STATS220 Assignment 1 <img src="https://i.ytimg.com/vi/XDGmv6zRM84/hqdefault.jpg" height="130px" align="right" />
 
 ## Overview
 
