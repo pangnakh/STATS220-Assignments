@@ -1,7 +1,7 @@
-# STATS220 Data Technologies 
+# STATS Data Technologies 
 
 **I am currently taking a paper on Data Techonologies ([STATS220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)) at the University of Auckland.**
 
-<mark > This is a repo I have created for my STATS220 Assignments </mark> 
+This is a repo I have created for my STATS2️⃣2️⃣0️⃣ Assignments 
 
 
