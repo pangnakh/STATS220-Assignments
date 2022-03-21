@@ -3,7 +3,6 @@
 ## Overview
 <p align = "center">
 I was tasked to create a meme using R code for my first assignment.
-
 I chose to create a meme about the struggles of completing an assignment as a student.
   </p>
 
